@@ -66,7 +66,7 @@ p {
 
 #navbar {
     overflow: hidden;
-    background-color: #0dcaf0!important;
+    background-color: #0DCAF0!important;
     /* Large padding which will shrink on scroll (using JS) */
     transition: 0.4s;
     /* Adds a transition effect when the padding is decreased */
